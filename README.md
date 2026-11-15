@@ -2,7 +2,7 @@
 
 # Murmur
 
-**Full stack chat, built in Kotlin and felt natively on Android and iOS.**
+**Full stack chat app, built in Kotlin and felt natively on Android and iOS.**
 
 A Kotlin Multiplatform chat app with a Ktor server, shared client and view-model logic, and fully native UIs.
 
@@ -32,8 +32,9 @@ its own UI, so Android feels like Android and iOS feels like iOS.
 
 ### Demo
 
+https://github.com/user-attachments/assets/5b981deb-3fcd-4546-a267-3fa96b6d81d5
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO
+
 
 ### Features
 
@@ -95,8 +96,9 @@ The same screens, each in its platform's own style.
 |---|--------------------------------------------------------|----------------------------------------------------|
 | Splash | <img src="screenshots/android_splash.png" width="240"> | <img src="screenshots/ios_splash.png" width="240"> |
 | Log in | <img src="screenshots/android_login.png" width="240">  | <img src="screenshots/ios_login.png" width="240">  |
+| Log in | <img src="screenshots/android_reg.png" width="240">  | <img src="screenshots/ios_reg.png" width="240">  |
 | Chats | <img src="screenshots/android_chat.png" width="240">   | <img src="screenshots/ios_chat.png" width="240">   |
-| Conversation | <img src="screenshots/android_contact.png" width="240"> | <img src="screenshots/ios_contact.png" width="240"> |
+| Contact | <img src="screenshots/android_contact.png" width="240"> | <img src="screenshots/ios_contact.png" width="240"> |
 
 ---
 
@@ -158,7 +160,7 @@ To test server run this on your browser `http://localhost:<PORT>/`, it should sh
 ├── iosApp/          SwiftUI UI + iOS wrappers
 ```
 
-
+---
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Server.
 
