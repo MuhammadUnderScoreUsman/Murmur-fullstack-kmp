@@ -32,8 +32,7 @@ its own UI, so Android feels like Android and iOS feels like iOS.
 
 ### Demo
 
-https://github.com/user-attachments/assets/5b981deb-3fcd-4546-a267-3fa96b6d81d5
-
+https://github.com/user-attachments/assets/3023a30b-0569-4f9b-9f33-5f720fc9b7bf
 
 
 ### Features
